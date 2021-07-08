@@ -212,7 +212,7 @@ El estado de trance puede ser roto facilmente al sentirnos incómodos o sorprend
 - [Western esotericism](https://en.wikipedia.org/wiki/Western_esotericism)
 - [Chaos Magick Files](http://www.chaosmatrix.org/library/chaos.php)
 - [Curso sobre magia](https://www.quareia.com/#course)
-- [occult 101 what it is and where to start(https://www.reddit.com/r/occult/comments/r806v/occult_101_what_it_is_and_where_to_start/)
+- [occult 101 what it is and where to start](https://www.reddit.com/r/occult/comments/r806v/occult_101_what_it_is_and_where_to_start/)
 - [Hermetic Order of the Golden Dawn](https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn)
 - [Shamanism](https://en.wikipedia.org/wiki/Shamanism)
 - [Psychology_of_religion](https://en.wikipedia.org/wiki/Category:Psychology_of_religion)
