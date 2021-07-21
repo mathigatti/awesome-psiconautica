@@ -213,11 +213,11 @@ El estado de trance puede ser roto fácilmente al sentirnos incómodos o sorpren
 - [Western esotericism](https://en.wikipedia.org/wiki/Western_esotericism)
 - [Chaos Magick Files](http://www.chaosmatrix.org/library/chaos.php)
 - [Curso sobre magia](https://www.quareia.com/#course)
-- [occult 101 what it is and where to start](https://www.reddit.com/r/occult/comments/r806v/occult_101_what_it_is_and_where_to_start/)
+- [Occult 101: What it is and where to start](https://www.reddit.com/r/occult/comments/r806v/occult_101_what_it_is_and_where_to_start/)
 - [Hermetic Order of the Golden Dawn](https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn)
 - [Shamanism](https://en.wikipedia.org/wiki/Shamanism)
 - [Psychology_of_religion](https://en.wikipedia.org/wiki/Category:Psychology_of_religion)
-- [the-encyclopedia-of-magic-and-alchemy](https://es.slideshare.net/nuestrocanto/the-encyclopedia-of-magic-and-alchemy)
+- [The Encyclopedia of Magic and Alchemy](https://es.slideshare.net/nuestrocanto/the-encyclopedia-of-magic-and-alchemy)
 
 
 #### Magia Sexual
