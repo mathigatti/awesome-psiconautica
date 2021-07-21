@@ -1,11 +1,11 @@
 # Psiconáutica
 ## Cómo experimentar nuevos estados mentales
 
-Todos los días experimentamos la vida a través de nuestros sentidos. Procesamos lo que sentimos y actuamos de la forma particular que nos salga. Cada persona es un poco distinta, cada uno percibe el color rojo de una forma diferente. Cada persona tiene una forma de pensar y de razonar distinta sobre como calcular 7 + 16.
+Todos los días experimentamos la vida a través de nuestros sentidos. Procesamos lo que sentimos y actuamos de la forma particular que nos salga. Cada persona es un poco distinta, cada uno percibe el color rojo de una forma diferente. Cada persona tiene una forma de pensar y de razonar distinta sobre cómo calcular 7 + 16.
 
-El tema es que a parte de que no existen dos personas exactamente iguales tampoco nosotros somos exactamente los mismos todo el tiempo. El estado mental en el que estamos no es el mismo si estamos totalmente despiertos y sobrios que si estamos muy cansados o dormidos, tampoco es el mismo que si estamos hipnotizados mirando un comercial de Sprayette.
+El tema es que aparte de que no existen dos personas exactamente iguales tampoco nosotros somos exactamente los mismos todo el tiempo. El estado mental en el que estamos no es el mismo si estamos totalmente despiertos y sobrios que si estamos muy cansados o dormidos, tampoco es el mismo que si estamos hipnotizados mirando un comercial de Sprayette.
 
-En este articulo voy a charlar sobre algunas cosas que aprendí leyendo sobre la psiconautica, el grupo de técnicas y metodos para conseguir estados alterados de conciencia (ASC). Si bien hay muchas formas de experimentar estos estados, varios son poco deseables, por ejemplo la epilepsia o los ataques de pánico, en esta guía nos concentraremos en los de índole mas recreativa.
+En este artículo voy a charlar sobre algunas cosas que aprendí leyendo sobre la psiconáutica, el grupo de técnicas y métodos para conseguir estados alterados de conciencia (ASC). Si bien hay muchas formas de experimentar estos estados, varios son poco deseables, por ejemplo la epilepsia o los ataques de pánico, en esta guía nos concentraremos en los de índole más recreativa.
 
 ## Categorías
 
@@ -21,9 +21,9 @@ En este articulo voy a charlar sobre algunas cosas que aprendí leyendo sobre la
 <details open>
 <summary></summary>
 
-Nuestro estado de conciencia surge principalmente de lo que pasa en nuestro cerebro. Y nuestro cerebro funciona a partir de grandes redes de neuronas que se comunican entre ellas para tomar decisiones. La comunicación se hace a través de unos quimicos llamados neurotransmisores. Al consumir ciertas drogas que tienen una estructura quimica similar a la de algunos neurotransmisores podemos alterar completamente la forma en que nuestro cerebro funciona. Haciendo que, por ejemplo, algunas regiones de nuestro cerebro comiencen a interactuar mas (o menos). Esto puede disparar nuevas formas de pensar o percibir la vida mientras dura el efecto de la droga.
+Nuestro estado de conciencia surge principalmente de lo que pasa en nuestro cerebro. Y nuestro cerebro funciona a partir de grandes redes de neuronas que se comunican entre ellas para tomar decisiones. La comunicación se hace a través de unos químicos llamados neurotransmisores. Al consumir ciertas drogas que tienen una estructura química similar a la de algunos neurotransmisores podemos alterar completamente la forma en que nuestro cerebro funciona. Haciendo que, por ejemplo, algunas regiones de nuestro cerebro comiencen a interactuar más (o menos). Esto puede disparar nuevas formas de pensar o percibir la vida mientras dura el efecto de la droga.
 
-### ¿Donde comprar?
+### ¿Dónde comprar?
 
 [Darknet Markets](https://en.wikipedia.org/wiki/Darknet_market): Hoy en día podés comprar drogas desde tu casa de forma anónima en la deep web. Es posible comprar en portales similares a MercadoLibre, buscando distribuidores con cientos de reseñas positivas, lo que hace que sea más fácil y seguro comprar drogas de alta calidad. Estas plataformas pueden ser un poco difíciles de usar al principio, ya que solo se aceptan criptomonedas como bitcoin como forma de pago y hay que encriptar los datos personales manualmente al pedir un envío. De todas maneras hay varios tutoriales para seguir y cada vez se vuelve mas accesible.
 
@@ -32,17 +32,17 @@ A parte del Darnet Market hay sitios como:
 
 ### Cultivar en casa
 
-Muchas sustancias psicoactivas provienen de plantas u hongos que se pueden cultivar facilmente. Pueden revisar [Cahuinadencul](https://web.archive.org/web/20130731161934/https://cahuinadencul.net/) para inspirarse un poco, desgraciadamente el local fue cerrado por luego de que se actualizó la legislación sobre plantas alucinogenas.
+Muchas sustancias psicoactivas provienen de plantas u hongos que se pueden cultivar fácilmente. Pueden revisar [Cahuinadencul](https://web.archive.org/web/20130731161934/https://cahuinadencul.net/) para inspirarse un poco, desgraciadamente el local fue cerrado por luego de que se actualizó la legislación sobre plantas alucinogenas.
 
 Si estás interesado en hongos mágicos hay algunas técnicas a tener en cuenta:
 
 - [PF-TEK](http://www.fungifun.org/Spanish/Pftek): Para crecer hongos en casa
 - [Honey-TEK](https://planetahongo.tripod.com/honeytek.htm): Para propagar y almacenar los hongos por largos periodos
-- Si querés saltearte los pasos dificiles podés buscar en instagram vendedores que venden kits de cultivo que simplifican el proceso
+- Si querés saltearte los pasos difíciles podés buscar en instagram vendedores que venden kits de cultivo que simplifican el proceso
 
 ### Harm reduction
 
-No puedo dar ningún consejo profesional sobre esto. Cada vez que quiero probar una droga nueva, consulto tantas fuentes confiables como pueda para obtener informes del viaje, recomendaciones de dosis, duración de los efectos, efectos secundarios, preparaciones recomendadas y métodos de consumo.
+No puedo dar ningún consejo profesional sobre esto. Cada vez que considero probar una droga nueva consulto tantas fuentes confiables como pueda para obtener informes del viaje, recomendaciones de dosis, duración de los efectos, efectos secundarios, preparaciones recomendadas y métodos de consumo.
 
 Aca hay una lista de algunos recursos útiles
 
@@ -69,7 +69,7 @@ Recordá que google es tu amigo. Si querés buscar, por ejemplo "dosis recomenda
 
 [Erowid](www.erowid.org) es el mejor sitio web del mundo. Es como la Wikipedia de estados alterados de conciencia. Puede buscar allí consejos, trucos e informes de viaje para psiconautas que probaron diferentes drogas, técnicas de meditación y cualquier otra cosa que pueda imaginar.
 
-### Vease también
+### Véase también
 - [Enteógeno](https://es.wikipedia.org/wiki/Ente%C3%B3geno)
 - [Tipos de drogas recreativas](https://en.wikipedia.org/wiki/Recreational_drug_use#Types)
   - [Tipos de alucinogenos](https://en.wikipedia.org/wiki/Hallucinogen#Effects_by_type) 
@@ -98,9 +98,9 @@ Experimentar con estas prácticas puede ser interesante, de todas maneras siempr
 <details open>
 <summary>Details</summary>
 
-Si bien todo el tiempo sentimos emociones eso no quiere decir que nuestro estado de conciencia este siendo alterado profundamente, pero si es cierto que algunas emociones particulares pueden ser tan fuertes que pueden producirnos estados bastante particulares.
+Si bien todo el tiempo sentimos emociones eso no quiere decir que nuestro estado de conciencia esté siendo alterado profundamente, pero sí es cierto que algunas emociones particulares pueden ser tan fuertes que pueden producirnos estados bastante particulares.
 
-Al mismo tiempo algunos estados alterados de conciencia pueden facilitarnos sentir mas ciertas emociones. Las emociones y el estado de nuestra conciencia interactuan todo el tiempo.
+Al mismo tiempo algunos estados alterados de conciencia pueden facilitarnos sentir más ciertas emociones. Las emociones y el estado de nuestra conciencia interactúan todo el tiempo.
 
 ### Algunos ejemplos
 
@@ -118,17 +118,17 @@ Al mismo tiempo algunos estados alterados de conciencia pueden facilitarnos sent
 <details open>
 <summary>Details</summary>
 
-Cuando dormimos experimentamos un estado de conciencia distinto. Usualmente uno bastante aburrido, el estado de inconsciencia. Pero también algunos mas interesantes. Como estados intermedios entre sueño y vigilia justo antes de dormirnos. O quizás con suerte de vez en cuando sueños lucidos, donde soñamos pero estamos concientes. 
+Cuando dormimos experimentamos un estado de conciencia distinto. Usualmente uno bastante aburrido, el estado de inconsciencia. Pero también algunos más interesantes. Como estados intermedios entre sueño y vigilia justo antes de dormirnos. O quizás con suerte de vez en cuando sueños lúcidos, donde soñamos pero estamos conscientes. 
 
 ### Sueños lúcidos
-Los [Sueños lucidos](https://es.wikipedia.org/wiki/Sue%C3%B1o_l%C3%BAcido) son interesantes por múltiples razones. Nos dan acceso a un estado mental en el cual tenemos acceso a los grandes poderes de simulación del cerebro, permitiendonos vivir experiencias completamente ficticias con un realismo extremo. Si pudieramos controlar esto con mayor nivel se podrian incluso hacer sueños lúcidos multijugador donde nos comunicaramos con otras personas que también estan soñando (Ya hay personas investigando estas posibilidades [[Referencia](https://medicalxpress.com/news/2021-02-real-time-dialogue-person.html)]).
+Los [Sueños lucidos](https://es.wikipedia.org/wiki/Sue%C3%B1o_l%C3%BAcido) son interesantes por múltiples razones. Nos dan acceso a un estado mental en el cual tenemos acceso a los grandes poderes de simulación del cerebro, permitiéndonos vivir experiencias completamente ficticias con un realismo extremo. Si pudieramos controlar esto con mayor nivel se podrian incluso hacer sueños lúcidos multijugador donde nos comunicaramos con otras personas que también estan soñando (Ya hay personas investigando estas posibilidades [[Referencia](https://medicalxpress.com/news/2021-02-real-time-dialogue-person.html)]).
 
-Para el día a día hay algunas técnicas simples que pueden aumentar las probabilidades de tener sueños lúcidos. Pueden leer varias [acá](https://www.wikihow.com/Lucid-Dream) y buscar otras mas en internet. La que mas me funciona a mi es obligarme a seguir durmiendo cuando me despierto de un sueño, principalmente me funciona si estoy durmiendo una siesta, supongo que porque uno no esta tan profundamente dormido como cuando duerme a la noche y es mas fácil entrar en este extraño estado de sueño conciente.
+Para el día a día hay algunas técnicas simples que pueden aumentar las probabilidades de tener sueños lúcidos. Pueden leer varias [acá](https://www.wikihow.com/Lucid-Dream) y buscar otras más en internet. La que mas me funciona a mi es obligarme a seguir durmiendo cuando me despierto de un sueño, principalmente me funciona si estoy durmiendo una siesta, supongo que porque uno no está tan profundamente dormido como cuando duerme a la noche y es más fácil entrar en este extraño estado de sueño consciente.
 
 También puede resultar entretenido leer [trip reports](https://erowid.org/experiences/subs/exp_Dreams.shtml).
 
 
-### Vease también
+### Véase también
 
 - [Hypnagogia](https://en.wikipedia.org/wiki/Hypnagogia): La experiencia de transición de estar despierto a estar dormido
 - [Parálisis del sueño](https://es.wikipedia.org/wiki/Par%C3%A1lisis_del_sue%C3%B1o)
@@ -151,7 +151,7 @@ Un estado de concentración profunda ideal se logra gracias a dos cosas.
 Algunas personas tienen mayor facilidad para concentrarse que otras. El concentrarse profundamente en algo también implica el ignorar otras cosas que pueden estar pasando, esta facilidad para entregarse suele relacionarse con la [sugestibilidad](https://en.wikipedia.org/wiki/Suggestibility) y el [soñar despiertos](https://en.wikipedia.org/wiki/Daydream).
 
 
-#### Vease también
+#### Véase también
 
   - [Pensamiento mágico](https://en.wikipedia.org/wiki/Magical_thinking)
   - [Trance](https://en.wikipedia.org/wiki/Trance)
@@ -166,7 +166,7 @@ Si algo es muy confuso o irritante vamos a dejar de prestarle atención. La mayo
 
 Si la hipnosis o meditación recae en sonidos estos suelen ser constantes y repetitivos con patrones bien claros. Si es una historia se intenta relatarlo con una voz tranquila y repetitiva, explicando la historia con mucha claridad, manteniendo gran [verosimilitud](https://en.wikipedia.org/wiki/Verisimilitude_(fiction)) y maximizando la [suspensión de la incredulidad](https://es.wikipedia.org/wiki/Suspensi%C3%B3n_de_la_incredulidad).
 
-Mas información sobre como obtener la suspensión de la incredulidad en el espectador
+Más información sobre cómo obtener la suspensión de la incredulidad en el espectador
 
 - [Técnicas utilizadas por escritores](https://writing.stackexchange.com/questions/2730/what-breaks-suspension-of-disbelief)
 - [Técnicas utilizadas por hipnotizadores](https://morningstarportal.tripod.com/hypnoticinduction.html)
@@ -176,12 +176,13 @@ Mas información sobre como obtener la suspensión de la incredulidad en el espe
 
 ### Prácticas Mágicas
 
-Las prácticas mágicas suelen sumarle al estado sugestionable del trance un deseo poderoso de que algo se cumpla. Las prácticas suelen consistir en aprovechar este estado de sugestibilidad en el cual medio que nos creemos cualquier cosa para poder "cargar" ese deseo en un objeto o acción. Por ejemplo puede ayudarnos a creer que decir una palabra (hechizo) va a tener algún efecto en eso que tanto deseamos que ocurra. Técnicas similares se utilizan para cargar con significado y emociones objetos inanimados como [talismanes](https://en.wikipedia.org/wiki/Talisman), [palabras](https://es.wikipedia.org/wiki/Hechizo), [acciones](https://en.wikipedia.org/wiki/Ritual) y demás.
+Las prácticas mágicas suelen sumarle al estado sugestionable del trance un deseo poderoso de que algo se cumpla. Las prácticas suelen consistir en aprovechar este estado de sugestibilidad en el cual medio que nos creemos cualquier cosa para poder "cargar" ese deseo en un objeto o acción. Por ejemplo, puede ayudarnos a creer que decir una palabra (hechizo) va a tener algún efecto en eso que tanto deseamos que ocurra. Técnicas similares se utilizan para cargar con significado y emociones objetos inanimados como [talismanes](https://en.wikipedia.org/wiki/Talisman), [palabras](https://es.wikipedia.org/wiki/Hechizo), [acciones](https://en.wikipedia.org/wiki/Ritual) y demás.
 
 #### Hechizos mágicos
 
-Los hechizos mágicos son palabras o textos que tienen la capacidad de producirnos un estado emocional o mental especial. Muchas veces se utilizan palabras en latin o estética medieval ya que solemos asociar estos a la magia y ayuda a que la idea sea mas verosimil.
+Los hechizos mágicos son palabras o textos que tienen la capacidad de producir un estado emocional o mental especial. Muchas veces se utilizan palabras en latin o estética medieval ya que solemos asociar estos a la magia, lo cual ayuda a que la idea sea más verosímil.
 
+- [Alan Moore on Magic](https://www.youtube.com/watch?v=k1qACd0wHd0)
 - [Occult poetry](https://www.reddit.com/r/occult/comments/34wya5/occult_poetry/)
 - [Grimoire](https://en.wikipedia.org/wiki/Grimoire) (Libro de hechizos)
 - [Libro sagrado](https://es.wikipedia.org/wiki/Libro_sagrado)
@@ -199,13 +200,13 @@ Los hechizos mágicos son palabras o textos que tienen la capacidad de producirn
 
 #### Rituales mágicos
 
-Similarmente a lo que venimos viendo los rituales mágicos suelen contener una estética, vocabulario y ambientación especiales pensados cuidadosamente para que nos parezca verosimil que este pasando algo magico. Usualmente se utiliza ropa, palabras y simbologia muy distinta de la usual del día a día para que a nuestro cerebro se le haga mas fácil procesar la posibilidad de que las reglas de juego son distintas y en este contexto si es posible hacer cosas mágicas.
+Similarmente a lo que venimos viendo los rituales mágicos suelen contener una estética, vocabulario y ambientación especiales pensados cuidadosamente para que nos parezca verosímil que esté pasando algo mágico. Usualmente se utiliza ropa, palabras y simbología muy distinta de la usual del día a día para que a nuestro cerebro se le haga más fácil procesar la posibilidad de que las reglas de juego son distintas y en este contexto si es posible hacer cosas mágicas.
 
-Los rituales suelen tener una serie de pasos muy bien definidos. Si hay varias personas suelen haber jerarquias muy marcadas.
+Los rituales suelen tener una serie de pasos muy bien definidos. Si hay varias personas suelen haber jerarquías muy marcadas.
 
-El estado de trance puede ser roto facilmente al sentirnos incómodos o sorprendidos por alguna otra preocupación que evite que mantengamos el estado de concentración profunda. Por esta razón si se busca hacer un ritual de varias personas se intenta que todas esten dispuestas a seguir el juego y no juzgar si se hacen cosas extrañas. También por esta razón se suelen mantener los cultos con gran hermetismo/secretismo, para separarlo lo mas posible de las miradas externas y solo incluir personas que puedan entender el juego.
+El estado de trance puede ser roto fácilmente al sentirnos incómodos o sorprendidos por alguna otra preocupación que evite que mantengamos el estado de concentración profunda. Por esta razón si se busca hacer un ritual de varias personas se intenta que todas esten dispuestas a seguir el juego y no juzgar si se hacen cosas extrañas. También por esta razón se suelen mantener los cultos con gran hermetismo/secretismo, para separarlo lo mas posible de las miradas externas y solo incluir personas que puedan entender el juego.
 
-#### Vease también
+#### Véase también
 
 - [Manual de campo del psiconauta](https://www.deviantart.com/bluefluke/art/Psychonaut-Field-Manul-Spanish-Translation-UPDATE-683544161) por [Bluefluke](https://bluefluke.tumblr.com/)
 - [Lecturas recomendadas por BlueFluke](https://bluefluke.tumblr.com/post/123083328833/books)
@@ -244,7 +245,7 @@ La pornografía mainstream puede generar ideales o creencias falsos, [aca](https
 
 ### Entretenimiento
 
-A diferencia de la magia algunas técnicas de trance pueden tener como objetivo simplemente relajarnos o pasar el rato.
+A diferencia de la magia algunas técnicas de trance pueden tener como objetivo simplemente relajarse o pasar el rato.
 
 #### Para relajarse
 - Yoga
@@ -252,7 +253,7 @@ A diferencia de la magia algunas técnicas de trance pueden tener como objetivo 
   - [Ashtanga](https://youtu.be/aUgtMaAZzW0)
 - Hipnosis
 - Reiki
-- Meditation guiada
+- Meditación guiada
 - Meditación: [Palden Sakya Argentina](https://www.youtube.com/channel/UC0UDBg0Uzbf9YDUK8VpwWjw/videos)
 - [Tanque de aislamiento sensorial](https://www.zerogravite.com.ar/)
 - [ASMR](https://youtu.be/B1NXNlXFViY)
@@ -277,28 +278,31 @@ A diferencia de la magia algunas técnicas de trance pueden tener como objetivo 
   - [Story telling](https://en.wikipedia.org/wiki/Storytelling)
       - [Fairy tale](https://en.wikipedia.org/wiki/Fairy_tale)
 
-- Peliculas psicodélicas
+- Películas psicodélicas
   - La Planete Sauvage
   - The Holy Mountain
   - Yojouhan Shinwa Taikei
   - Mononoke
-  - Peliculas de David Lynch
+  - Películas de David Lynch
 
 </details>
 
-# Vease también
+# Véase también
 
-### Psychonaut events
+### Eventos
 
 - [Consciousness Hacking NYC](https://www.meetup.com/es/Consciousness-Hacking-NYC/)
 - [CoHack](http://www.cohack.org/)
 
-### Psychonaut communities
+### Comunidades
 
 - [RationalPsychonaut - Reddit](https://www.reddit.com/r/RationalPsychonaut/)
 - [Psychonaut - Reddit](https://www.reddit.com/r/Psychonaut/)
+- [El club de la conciencia - Twitch](https://www.twitch.tv/elgatoylacaja/videos)
+- [enteogenospsicoactivos - Facebook](https://www.facebook.com/groups/enteogenospsicoactivos/)
+- [Wicca Argentina - Facebook](https://www.facebook.com/groups/854479704660826/)
 
-### Research institutes
+### Instituciones científicas
 
 - [Qualia Research Institute](https://www.youtube.com/channel/UCDyIb9dNM9tVM98F1SYJHyA)
 - [Cocucolab](https://www.cocucolab.org/)
@@ -308,3 +312,4 @@ A diferencia de la magia algunas técnicas de trance pueden tener como objetivo 
 - [Neurohacking](https://en.wikipedia.org/wiki/Neurohacking)
 - [Transpersonal psychology](https://en.wikipedia.org/wiki/Transpersonal_psychology)
 - [Quantified self](https://en.wikipedia.org/wiki/Quantified_self)
+- [Conciencia](https://elgatoylacaja.com/elnudo/)
