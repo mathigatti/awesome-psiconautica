@@ -241,7 +241,7 @@ Esta es una lista de recursos donde estrellas porno dan algunos consejos para ev
 
 Cuando tenga relaciones sexuales con otra persona, recordá ser amable y manejarte a través del consentimiento.
 
-La pornografía mainstream puede generar ideales o creencias falsos, [aca](https://www.instagram.com/p/B57uNEfnj8G/?utm_medium=copy_link) hay una lista de alternativas más diversas y realistas.
+La pornografía mainstream puede generar ideales o creencias falsos, [aca](https://www.instagram.com/p/CLeqI_dnkjG/?utm_medium=copy_link) hay una lista de alternativas más diversas y realistas.
 
 ### Entretenimiento
 
