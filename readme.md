@@ -38,7 +38,7 @@ Si estás interesado en hongos mágicos hay algunas técnicas a tener en cuenta:
 
 - [PF-TEK](http://www.fungifun.org/Spanish/Pftek): Para crecer hongos en casa
 - [Honey-TEK](https://planetahongo.tripod.com/honeytek.htm): Para propagar y almacenar los hongos por largos periodos
-- Si querés saltearte los pasos difíciles podés buscar en instagram vendedores que venden kits de cultivo que simplifican el proceso
+- Si querés saltearte los pasos difíciles podés buscar en instagram vendedores que venden kits de cultivo que simplifican el proceso. También podés encontrar insumos [acá](https://tiendafungi.com/).
 
 ### Harm reduction
 
